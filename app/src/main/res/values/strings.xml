@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">NavigationDrawerSample</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <string name="toolbar_title">Notes App</string>
+    <string name="enter_user_name">Enter User Name</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="signin">SignIn</string>
+    <string name="signup">SignUp</string>
+    <string name="enter_your_phone_number">Enter your phone number</string>
+    <string name="enter_your_father_or_husband_name">Enter your father OR husband name</string>
+    <string name="todo">todo</string>
+    <string name="chinese_food">Chinese food</string>
+    <string name="continental_food">Continental food</string>
+    <string name="pakistani_food">Pakistani food</string>
+    <string name="starter">Starter</string>
+    <string name="fast_food">Fast food</string>
+    <string name="drinks">Drinks</string>
+</resources>
